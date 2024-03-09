@@ -1,22 +1,35 @@
 nav{
-    background-color: saddlebrown;
+    background-color: aquamarine ;
+    padding: 25px;
+}
+h1{
+    background-color: aquamarine ;
     padding: 25px;
 }
 
 nav a {
-    color: white;
+    color: dimgray;
     display: block;
     padding: 20px;
 }
 
 h1{
-    color: steelblue;
+    color: dimgray;
+}
+h2{
+    color: dimgray;
+}
+h3{
+    color: dimgray;
+}
+h4{
+    color: dimgrey;
 }
 
 img {
     width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid aquamarine;
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
@@ -29,7 +42,7 @@ p {
 main img {
     width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid aquamarine;
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
