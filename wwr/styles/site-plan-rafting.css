@@ -1,6 +1,6 @@
 nav{
-    background-color: steelblue;
-    padding: 10px;
+    background-color: saddlebrown;
+    padding: 25px;
 }
 
 nav a {
@@ -36,4 +36,24 @@ main img {
 
 p{
     padding: 0;
+}
+
+body {
+    font-family: Georgia;
+}
+h1 {
+    font-family: 'Arial Black';
+    padding: 200px;
+}
+h2 {
+    font-family: 'Arial Black';
+    padding: 200px;
+}
+h3 {
+    font-family: 'Arial Black';
+    padding: 200px;
+}
+h4 {
+    font-family: 'Arial Black';
+    padding: 200px;
 }
