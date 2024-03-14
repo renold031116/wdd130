@@ -54,19 +54,7 @@ p{
 body {
     font-family: Georgia;
 }
-h1 {
-    font-family: 'Arial Black';
-    padding: 20px;
-}
-h2 {
-    font-family: 'Arial Black';
-    padding: 20px;
-}
-h3 {
-    font-family: 'Arial Black';
-    padding: 20px;
-}
-h4 {
+h1, h2, h3, h4 {
     font-family: 'Arial Black';
     padding: 20px;
 }
