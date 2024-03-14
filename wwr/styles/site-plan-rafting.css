@@ -74,6 +74,13 @@ h1, h2, h3, h4 {
   .four {
     background-color: var(--main-bg-color);
   }
-  .five {
+  .nav a {
     background-color: var(--main-bg-color);
   }
+  *{
+    margin: 0;
+    padding: 0
+    box-sizing: border-box;
+  }
+
+
