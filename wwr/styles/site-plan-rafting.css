@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Georgia&family=Arial+Black&display=swap');
 nav{
     background-color: aquamarine ;
     padding: 25px;
@@ -44,7 +45,7 @@ main img {
     box-shadow: 0 0 30px gray;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Georgia&family=Arial+Black&display=swap');
+
 body {
     font-family: Georgia;
 }
