@@ -1,6 +1,7 @@
 nav{
     background-color: aquamarine ;
     padding: 25px;
+    width:auto;
 }
 
 
@@ -8,12 +9,12 @@ nav a {
     color: dimgray;
     display: block;
     padding: 20px;
-    width:500px
+    
 }
 header{
     background-color: aquamarine;
     padding: 20px;
-    width: 500px;
+    width: auto;
 
 }
 
