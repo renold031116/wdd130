@@ -35,6 +35,7 @@ img {
 p {
     padding: 10px;
     width: 600px;
+    font-family: Georgia;
 }
 
 main img {
@@ -47,7 +48,9 @@ main img {
 
 
 body {
-    font-family: Georgia;
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
 }
 h1, h2, h3, h4 {
     font-family: 'Arial Black';
