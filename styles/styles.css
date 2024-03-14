@@ -41,14 +41,15 @@ main img {
     padding: 1rem;
     background-color: #ddd;
     color: #000;
+    
 
   }
+ 
 
   aside{
     width: 20em;
     text-align: center;
+    
   }
 
-  main img {
-    float: right;
-  }
+ 
