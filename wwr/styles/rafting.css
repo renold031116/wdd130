@@ -4,7 +4,7 @@ nav{
     padding: 25px;
     width:auto;
 }
-.hero img {
+.hero{
     display:block;
     width: 100%;
     height: auto;
@@ -12,13 +12,29 @@ nav{
 }
 
 
-article{
-   
-    background-color: navy, transparent;
+
+    
+img{
+    display: block;
     width: auto;
     height: auto;
 }
-img{
-    width: auto;
-    height: auto;
+.happy{
+    width: 200px;
+    height: 150px;
+   
+
+
+}
+p{
+    text-align: justify;
+    padding: 25px;
+}
+.footer{
+    width: 50px;
+    height: 50px;
+}
+h1{
+    padding: 25px;
+    text-align: justify;
 }
