@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Georgia&family=Arial+Black&display=swap');
+nav{
+    background-color: aquamarine ;
+    padding: 25px;
+    width:auto;
+}
+.hero img {
+    display:block;
+    width: 100%;
+    height: auto;
+}
