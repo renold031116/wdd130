@@ -8,4 +8,17 @@ nav{
     display:block;
     width: 100%;
     height: auto;
+    
+}
+
+
+article{
+   
+    background-color: navy, transparent;
+    width: auto;
+    height: auto;
+}
+img{
+    width: auto;
+    height: auto;
 }
