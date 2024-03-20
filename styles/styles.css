@@ -49,19 +49,29 @@ main img {
     padding: 1rem;
     background-color: #ddd;
     color: #000;
-    
 
   }
  
 
   aside{
-    width: 20em;
-    text-align: center;
+    width: 20rem;
+    position: relative;
+    grid-column: 1/2;
+    grid-row: 1/2;
     
   }
+
   header, footer {
     max-width: 840px;
     margin: 0 auto;
   }
 
+  main{
+    grid-column: 2/3;
+    margin: 1rem;
+  }
+.grid{
+    display: grid;
+    align-items: center;
+}
  
