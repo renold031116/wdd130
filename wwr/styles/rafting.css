@@ -31,13 +31,19 @@ img{
 .happy{
     width: 200px;
     height: 150px;
+    position: center;
    
 
 
 }
+main{
+    grid-column: 2/3;
+    margin: 1rem;
+  }
 p{
     text-align: justify;
     padding: 25px;
+    align-items: center;
 }
 .footer{
     width: 50px;
@@ -61,3 +67,4 @@ header, .grid, footer {
     padding: 0;
     box-sizing: border-box;
  }
+ 
