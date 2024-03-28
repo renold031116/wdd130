@@ -11,8 +11,18 @@
 <body>
     <h1>Hobby Survey</h1>
     <div class="grid">
+     <fieldset>   
     <div class="form-item">
         <label for="interest">What do you like to do?</label>
+        <select id="hobby" name="hobby">
+            <option value="rafting">Rafting</option>
+            <option value="basketball">Basketball</option>
+            <option value="archery">Archery</option>
+            <option value="fishing">Fishing</option>
+            <option value="biking">Biking</option>
+            <option value="eating">Eating</option>
+
+        </select>
         <input type="text" id ="interest" name="interest">
     </div>
     <div class="form-item column2">
@@ -28,8 +38,9 @@
         <input type="text" id ="time" name="time">
     </div>
     <div class="button">
-        <button>Submit</button>
+        <button type="submit">Submit</button>
     </div>
+    </fieldset>
     </div>
     <footer>
         <p> &copy; 2024 | Ren Knotts | WDD 130</p>
